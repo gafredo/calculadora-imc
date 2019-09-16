@@ -110,7 +110,7 @@ class _HomeState extends State<Home> {
                           }
                         },
                         child: Text(
-                          "Calcular",
+                          "Calculará",
                           style: TextStyle(color: Colors.white, fontSize: 25.0),
                         ),
                         color: Colors.green,
